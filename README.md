@@ -27,3 +27,12 @@
 <b>Webtoonที่ชอบ:</b> อ่านชะตาวันสิ้นโลก, Wind Breaker
 <br>
 <b>Valorant id:</b>OPO#5108
+<br>
+<a href="https://canva.link/q0pmebrpmnelihe">แพลตฟอร์ม</a>
+<br>
+<a href="https://canva.link/kinvyjbamhd35w1">Development คืออะไร?</a>
+<br>
+<a href="https://canva.link/51sw1kv0px9t8ee">ขั้นตอนการใช้ GitHub</a>
+<br>
+<a href="https://canva.link/msz332ilwrvy0vo">การอัปเดตโค้ดลง GitHub ผ่าน Visual Studio Code</a>
+
